@@ -4,6 +4,8 @@
 # vs
 .vs
 main.spec
+dist/*
+build/*
 
 log/*
 logs/*
