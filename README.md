@@ -60,7 +60,6 @@ BXC_VideoTranscode/
 │   ├── ffplay.exe
 │   └── ffprobe.exe
 ├── main.py                 # 主程序
-├── main.spec               # PyInstaller 打包配置
 ├── requirements.txt        # 依赖列表
 └── logo.png                # 程序图标
 ```
