@@ -1,0 +1,13 @@
+﻿# clion
+.idea/
+
+# vs
+.vs
+.spec
+
+log/*
+logs/*
+
+venv/*
+
+__pycache__
