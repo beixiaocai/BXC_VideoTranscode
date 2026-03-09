@@ -45,10 +45,11 @@ python main.py
 ### 打包发布
 
 ```bash
-pyinstaller main.spec
+pyinstaller -w -F -i logo.png --name BXC_VideoTranscode main.py
 ```
 
 打包后的可执行文件位于 `dist/BXC_VideoTranscode.exe`
+打包后，如需运行BXC_VideoTranscode.exe，需要把bin文件夹拷贝到BXC_VideoTranscode.exe同级目录
 
 ## 项目结构
 

@@ -4,6 +4,7 @@
 # vs
 .vs
 main.spec
+BXC_VideoTranscode.spec
 dist/*
 build/*
 
